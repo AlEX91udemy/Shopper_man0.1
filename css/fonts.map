@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "fonts.css",
+	"sources": [
+		"../sass/fonts.sass"
+	],
+	"sourcesContent": [
+		"@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-Light.ttf\");\n  font-weight: 300; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-Regular.ttf\");\n  font-weight: 400; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-Medium.ttf\");\n  font-weight: 500; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-SemiBold.ttf\");\n  font-weight: 600; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-Bold.ttf\");\n  font-weight: 700; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat-Black.ttf\");\n  font-weight: 900; }\n\n"
+	],
+	"names": [],
+	"mappings": "AAAA,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,oCAAoC;EACzC,WAAW,EAAE,GAAG;;;AAGlB,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,sCAAsC;EAC3C,WAAW,EAAE,GAAG;;;AAGlB,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,qCAAqC;EAC1C,WAAW,EAAE,GAAG;;;AAGlB,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,uCAAuC;EAC5C,WAAW,EAAE,GAAG;;;AAGlB,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,mCAAmC;EACxC,WAAW,EAAE,GAAG;;;AAGlB,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,oCAAoC;EACzC,WAAW,EAAE,GAAG"
+}
